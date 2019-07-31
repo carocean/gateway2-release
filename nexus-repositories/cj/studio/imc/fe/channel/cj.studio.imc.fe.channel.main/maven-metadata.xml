@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cj.studio.imc.fe.channel</groupId>
+  <artifactId>cj.studio.imc.fe.channel.main</artifactId>
+  <version>1.0.0</version>
+  <versioning>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20190405025952</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cj.netos.microapp</groupId>
+  <artifactId>cj.netos.microapp.plugin</artifactId>
+  <version>1.0.0</version>
+  <versioning>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20190726150308</lastUpdated>
+  </versioning>
+</metadata>

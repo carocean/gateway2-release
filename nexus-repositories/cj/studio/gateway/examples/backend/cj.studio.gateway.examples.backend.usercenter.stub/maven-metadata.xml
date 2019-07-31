@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cj.studio.gateway.examples.backend</groupId>
+  <artifactId>cj.studio.gateway.examples.backend.usercenter.stub</artifactId>
+  <version>1.0</version>
+  <versioning>
+    <versions>
+      <version>1.0</version>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20190405132953</lastUpdated>
+  </versioning>
+</metadata>
