@@ -22,12 +22,6 @@
   </developers>
   <dependencies>
     <dependency>
-      <groupId>cj.netos.openport</groupId>
-      <artifactId>cj.studio.openport</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.8.2</version>
@@ -60,6 +54,12 @@
     <dependency>
       <groupId>cj.studio.ecm</groupId>
       <artifactId>cj.ultimate</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>cj.netos.openport</groupId>
+      <artifactId>cj.studio.openport</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
